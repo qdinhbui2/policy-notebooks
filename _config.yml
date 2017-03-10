@@ -13,10 +13,10 @@
 # you will see them accessed via {{ site.title }}, {{ site.author }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Policy Notebook
+title: What I Know
 author: Quoctrung Bui
 description: Minimal, responsive Jekyll theme for hackers.
-baseurl: "/policy-notebook" # the subpath of your site, e.g. /blog
+baseurl: "/what-I-know" # the subpath of your site, e.g. /blog
 url: "https://yous.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 lang: en
 timezone: UTC

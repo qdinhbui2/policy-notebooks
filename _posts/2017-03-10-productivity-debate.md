@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "What I know about productivity"
+title: "What I know About Productivity"
 categories: productivity brookings
 description: "What I know about productivity"
 excerpt_separator: <!--more-->

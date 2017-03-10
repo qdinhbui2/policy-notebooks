@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Tax Policy Primer"
+title: "What I Know About Tax Policy"
 categories: taxes tpc
 description: "Basics on Federal Taxes"
 excerpt_separator: <!--more-->
