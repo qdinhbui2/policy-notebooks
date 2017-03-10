@@ -16,7 +16,7 @@
 title: What I Know
 author: Quoctrung Bui
 description: Minimal, responsive Jekyll theme for hackers.
-baseurl: "/what-I-know" # the subpath of your site, e.g. /blog
+baseurl: "/policy-notebooks" # the subpath of your site, e.g. /blog
 url: "https://yous.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 lang: en
 timezone: UTC

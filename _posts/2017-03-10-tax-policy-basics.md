@@ -48,7 +48,7 @@ Other ways are ambigous.
 
 1) Its hard to measure if people actually get taxed. Corporate taxes are guilty of this. Rich corporate tax people often avoid these taxes.
 
-2) It's hard to get a bead on what "income" actually is. Do you measure MEdicaid, Medicare, housing subsidies? As a result some people argue that you should measure consumption. It's more concrete and includes some of these broader measures. 
+2) It's hard to get a bead on what "income" actually is. Do you measure Medicaid, Medicare, housing subsidies? As a result some people argue that you should measure consumption. It's more concrete and includes some of these broader measures. 
 
 3) Some tax provisions are extend over time. Most analyses look at one year, but what happens if your tax break is stretched over time? IRAs
 
