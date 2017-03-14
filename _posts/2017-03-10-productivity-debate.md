@@ -6,7 +6,7 @@ description: "What I know about productivity"
 excerpt_separator: <!--more-->
 
 ---
-# Brookings Challenges to Mismeasurement in US productivity slowdown
+## Brookings Challenges to Mismeasurement in US productivity slowdown
 
 <!--more-->
 

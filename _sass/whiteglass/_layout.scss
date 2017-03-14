@@ -164,12 +164,13 @@
 
 
   h1 {
-    font-size: 40px;
+    font-size: 60px;
+    font-weight: 900;
   }
 
   h2 {
-    margin-top: 50px;
-    font-size: 30px;
+    margin-top: 40px;
+    font-size: 28px;
 
 /*    @include media-query($on-laptop) {
       font-size: 28px;
@@ -177,7 +178,9 @@
   }
 
   h3 {
-    font-size: 26px;
+    font-size: 21px;
+    margin-top: 40px;
+    margin-bottom: 10px;
 
     @include media-query($on-laptop) {
       font-size: 22px;
@@ -224,3 +227,9 @@
     float: right;
   }
 }
+
+
+  h1 {
+    font-size: 90px;
+  }
+
