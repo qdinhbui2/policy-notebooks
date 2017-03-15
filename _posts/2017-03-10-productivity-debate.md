@@ -15,7 +15,7 @@ excerpt_separator: <!--more-->
 ((needed here, how to measure productivity?))
 
 
-## Jan Hatzius
+### Jan Hatzius
 [Goldman Sachs slides]()
 
 Specifically speaking, he's talking about the slowdown in productivity, not the gap between productivity and wages. 
@@ -43,7 +43,7 @@ The data (especially in computer systems) fall short. There are big gains in inn
  > Alan Blinder says when he speaks to large audiences he likes to ask them whether they would prefer today’s healthcare, today’s nominal prices, or 1975 quality healthcare at 1975 nominal prices and the vast majority say they want today’s healthcare.
 
 
-## Chad Syverson
+### Chad Syverson
 He cites the ebb and flow of productivity growth
 
 1947 -1973 2.7% 1974 -1994 1.6% 1995 -2004 2.8% 2005 -2015 1.3%
@@ -73,14 +73,14 @@ Though the we've always mismeasured productivity so why are we worried about it 
 Think of it this way, in the past, even while washing machines were so extraordinarily useful, they still require people to buy them. So our economy eased into the new productivity. But with computers. We got those gains almost instantly.
 
 
-## Robert Z. Lawrence's Take
+### Robert Z. Lawrence's Take
 
  [chapter in this big AEI paper](https://www.aei.org/wp-content/uploads/2016/10/The-US-Labor-Market.pdf)
 
 
 Why might productivity be mis-measured? Looking at the gap between Output per hour, non farm vs real hourly compensation, nonfarm.
 
-### Argument 1
+#### Argument 1
 We measure gross output not net output. Gross output doesn't take into account depreciation of capital. 
 
 If we believe that the machine we used to make things don't last as long as they used to, then the depreciation of those machines will play a big role in net output.
@@ -111,3 +111,18 @@ Deflators: people are aren't buying the things that they make. This is kind of a
 The thing that we're producing and putting all of our innovation in are things that we rarely consume. So consumer prices are not going to fully take on board how much lower prices of computers are. So when I deflate nominal wages with CPI, real wages are going to grow slower than if I deflate with a PCE which is more flexible consumption basket and more comprehensive. 
 
 Lawrence argues that this fix, using PCE instead of CPI would explain 35% of the gap.
+
+
+
+## Good [post](http://conversableeconomist.blogspot.com/2017/03/differing-productivity-across-us.html) on different productivities by sector.
+
+Writes up this BLS [story](https://www.bls.gov/opub/mlr/2017/article/economic-productivity-in-the-air-transportation-industry.htm) that's mostly on the aviation industry. But what is helpful is the big table on multifactor productivity KLEMS (K=capital, L=labor, E=energy, M=materials). Education is at the bottom, it grew less productive by 3 percent. 
+
+![image](https://4.bp.blogspot.com/-08MRKJu8GDo/WMMQR8KYkEI/AAAAAAAAH7g/j_loaM0yDIQkDm1NCyqdVOCHa8DNUgCHwCLcB/s1600/productivity%2B2.jpg)
+
+
+I asked Tim about this and he says that it's probably a combination of rising costs in education and the fact that we don't know how to measure output (the numerator) properly.
+
+
+
+

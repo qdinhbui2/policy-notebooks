@@ -51,7 +51,7 @@ excerpt_separator: "<!-- more -->"
 # Outputting
 permalink: /:year/:month/:day/:title/
 paginate_path: /posts/:num/
-paginate: 5
+paginate: 20
 
 # Markdown settings
 kramdown:

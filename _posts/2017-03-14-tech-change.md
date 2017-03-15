@@ -10,9 +10,9 @@ excerpt_separator: <!--more-->
 
 A good frame when thinking about tech anxiety is....
 
-1. how much people will work on average. 
+1. How much people will work on average. 
 
-2. how that work will be distributed. 
+2. How will that work will be distributed. 
 
 ### Over the long term hours for workers have fallen.
 > Hours fell, from roughly 2,950 hours per worker in 1870 to 1,500 hours per worker in 1998. Since 2000, OECD figures show another decline: the OECD average fell by 75 hours worked per year (although less in the United States). For economists, it would seem peculiar to fret too much about a long-term decline in work hours: indeed, the earlier discussion pointed out that there is a tradition of economists either forecasting or hoping that technology would reduce the need for work hours.
