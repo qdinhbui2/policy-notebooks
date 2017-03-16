@@ -14,7 +14,7 @@ dl, dd, ol, ul, figure {
  * Basic styling
  */
 body {
-  font: $base-font-weight #{$base-font-size}/#{$base-line-height} $base-font-family;
+  font: 'Open Sans';
   color: $text-color;
   background-color: $background-color;
   -webkit-text-size-adjust: 100%;
@@ -47,8 +47,10 @@ ul, ol, dl, figure,
  * Images
  */
 img {
-  max-width: 100%;
+  max-width: 70%;
+  padding: 0 10%;
   vertical-align: middle;
+  margin: 40px auto;
 }
 
 
@@ -74,7 +76,9 @@ ul, ol {
 }
 
 li {
-font-size: 18px;
+font-family: 'Open Sans';
+font-size: 20px;
+margin: 20px 0;
 line-height: 1.4;
   > ul,
   > ol {
@@ -88,6 +92,7 @@ line-height: 1.4;
  * Headings
  */
 h1, h2, h3, h4, h5, h6 {
+  font: $base-font-weight #{$base-font-size}/#{$base-line-height} $base-font-family;
   font-weight: $base-font-weight;
 
   code {
@@ -180,7 +185,7 @@ pre {
  */
 .wrapper {
   max-width: 1000px;
-  
+  font: $base-font-weight #{$base-font-size}/#{$base-line-height} $base-font-family;
   margin-right: auto;
   margin-left: auto;
   padding-right: $spacing-unit;
