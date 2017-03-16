@@ -22,6 +22,11 @@ Q3: Howmuch has lifetime inequality changed since the 1950s ?
 	SSA Master Earnings File: Population data from1978 to 2013 – Wage/Salary income. No top coding. (SE income also available. Non-top-coded after 1993). – All workers in all 
 	sectors. – Lifetime income for 6 cohorts. We combine them all in one.
 
+	`Question: is there top-coding? Is there a cut-off?`
+
+	Answer [here](https://www.ssa.gov/policy/docs/ssb/v69n3/v69n3p29.html) under "limitations"
+	> Foremost, earnings data were first collected for the sole purpose of computing Social Security benefits. In the earlier years, only data on earnings up to the OASDI-taxable maximum were collected because any earnings over this amount did not factor into the benefit formula. 
+
 2. CWHS Sample: 
 	1% nationally representative panel from 1957 to 2013 (57 years). – Wage/Salary Income. Imputed above SSA taxable limit. – Commerce and Industry workers. 70% of labor force. – Lifetime (31 year) income for 27 cohorts.
 

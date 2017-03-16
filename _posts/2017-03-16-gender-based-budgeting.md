@@ -25,18 +25,20 @@ In some developing countries these budgets can be explicit.
 ## Big questions
 
 1. How do you do a gender budget? 
-	From WBG -- essentially take a look at any budget expenditure and see which gender it affects.
-	From WBG -- 
+	* I did not find that these articles were helpful. They seemed to say very obvious things.
+		* [Gender Budgeting: Fiscal Context and Current Outcomes](https://www.imf.org/external/pubs/ft/	wp/2016/wp16149.pdf)  
+		* [Gender budgeting: practical implementation](http://www2.unwomen.org/-/media/files/un%20women/grb/resources/gender%20budgeting%20practical%20implementation%20handbook.pdf?vs=1030)
+
+	* But this is what I imagine it to be:
+		* See how spending splits between man and women
+		* See how taxes spending or raises split between man and women
+		* See what kind of regulations
+		* Look at effects of education on boys and girls 
+		* Look at 2nd order effects that cuts to services have on women's labor market choices
+		* Look at 2nd order effects
+		* Include non market hours (ideal)
+
 2. What are more examples like infrastructure and spending?
-	* [Gender Budgeting: Fiscal Context and Current Outcomes](https://www.imf.org/external/pubs/ft/	wp/2016/wp16149.pdf)
-		Care economy
-	* What I imagine it to be:
-		See how spending splits between man and women
-		See how taxes spending or raises split between man and women
-		See what kind of regulations
-		Look at effects of education on boys and girls 
-		Look at 2nd order effects that cuts to services have on women's labor market choices
-		Look at 2nd order effects 
 
 3. How do you implement gender budgeting? What are the appropriate trade-offs?
 
