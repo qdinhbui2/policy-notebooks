@@ -32,27 +32,35 @@ Q3: Howmuch has lifetime inequality changed since the 1950s ?
 
 Two samples:
 
-– Sample 0: All U.S. born individuals with an SSN between ages 25 and 55 (alive). 
+- Social Security Administration records
+
+- 57 years of data.
+
+– Sample 0: All U.S. born individuals with an SSN between ages 25 and 55 (alive). Youngest full cohort turned 55 in 2013. 
 
 – Baseline sample: Individuals with: Y Ymin = $1650£31 (in 2012 dollars) and oe have non-trivial income (exceeding Ymin) in 15 out of 31 years
 
-What does Cross sectional mean? Lifetime/Cross-sectional calculation is inteesting. Lifetime inequality for 90/10 is almost twice that when you look cross sectionally.
+- Uses a 1% sample of the SSA master file. Fitered for commerce and industry. Represents roughly 70% of private sector employment in 20014. 
+
+- No discounting applied
 
 ### Not Working
 Lots of people are not working. What can't the CPS tell us that this data tell us? Data show that nearly 27 percent of people who make more than 10k work less than 20 years in their lives. 
 
 ![notworking]({{site.baseurl}}/imgs/notworking.png)
 
-
 Not working has real costs. And the curve is very steep. Not working 6 years on average costs people $30k annually.
 
 ![notworking]({{site.baseurl}}/imgs/notworking-costs.png)
 
-### Lifetime Income Has Fallen
+### For most men, lifetime Income Has Fallen
 
 ```Lifetime income == 1/31 * sum(income from age 25-55).``` 
 
-Found that income has fallen. Why? Perhaps cohorts born after 1970s spend more of their working lives during the slow growth years of 2000 and the Great Recession. 
+> Perhaps more strikingly, more than three-quarters of men have experienced no rise in their lifetime income, despite the fact that the U.S. economy has grown by more than 30% during this time.
+
+Caveat:
+>  Our data set does not contain individual-level information on non-wage benefits, but we use the NIPAs to obtain an upper bound on the growth of such benefits. Incorporating the growth in these benefits mitigates but does not overturn the results.
 
 ![men]({{site.baseurl}}/imgs/batchart-men.png)
 
@@ -64,6 +72,15 @@ So if you made a lot relative to other cohorts when you were 25, those gains wil
 
 I think the worthy frame here is the average joe. While Bill Gates or coding academy graduates may go from making very little money to alot of money, income in a bland, normal job is more graduated than that. Your earnings slowly accumulated.
 
+### The two periods of lifecycle income growth: 
+
+1957-1967: Average lifetimes incomes grew 21.9%/ median grew 12.3%
+
+1967-1983: Average lifetimes incomes grew 1.5%/ median fell <1%
+
+Found that income has fallen. Why? Perhaps cohorts born after 1970s spend more of their working lives during the slow growth years of 2000 and the Great Recession.
+
+
 Now let's move on to women.
 
 ![women]({{site.baseurl}}/imgs/batchart-women.png)
@@ -74,6 +91,7 @@ You can see that women entering the workforce in the late 90s started to break t
 
 It's not coincidental that this spread started to take places in the mid 70s, when women birth control started to become common among women age 25 and up.
 
+### Inequality
 
 This is an interesting statement:
 
@@ -82,7 +100,25 @@ This is an interesting statement:
 1. Suggests that people throughout their lives earn more than we thought. How do people measure lifetime income with cross sectional measures. Is he talking about synthetic cohorts?
 
 2. 
+> a 25-year-old man who was at the top decile of the income distribution of his cohort in 1968 had income that was 3.3 times (P90/P10 = e1.2) the income of a man who as in the bottom decile. By the time of the last cohort, those who turned 25 in 2012, this ratio had risen rose from 3.3 to 9.0. This is a remarkable 2.7 fold rise in the P90/P10 ratio, which is higher than the total rise in the cross-sectional P90/P10 ratio for men, which went up from 4 to 10, for a rise by 2.5 fold.34
 
+### Share of the pie by gender. 
+
+For cohorts 1955-1983, men have made roughly 80% and women had made 20% of all the lifetime money. Throughout the lifetime of each cohort. 
+
+## My observations
+
+* Today, the top 10 percent of 25-year-olds makes 9 times more than the bottom 10 percent. Traditionally, the top 10 percent made 3.3 more than the bottom 10. **(How are these people classified? by lifetime income?)**
+
+* We can see inequality play out, not only over time, but through the course of a life. 
+
+* Two people born the same year, can lead to different paths.
+
+* Most of the typical person incomes are made between 25 and 35
+* Womens incomes in the 60s and 80s are largely dependent on when they entered the labor market. 
+* Two interesting things happened. Starting in the 70s, the charts start to spread out. The spread is suggestive of careers developing (see Claudia Goldin/Francine Blau) and women using the pill (also Goldin)
+percent.  
+* Incomes for young men have dropped off for young men, but they have held for women.
 
 ## Takeaways
 
