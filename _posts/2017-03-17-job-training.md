@@ -22,3 +22,8 @@ Check out [Markle](https://www.markle.org/about-markle)
 ### Popular Writing: 
 
 [NYT Mag](https://mobile.nytimes.com/2017/02/23/magazine/retraining-jobs-unemployment.html)
+
+
+### Occupational Mobility
+
+[Job Change--Authors looked at the CPS and transitions](https://campuspress.yale.edu/moscarini/files/2017/01/cps_nber_wp-1oxgj8x.pdf)

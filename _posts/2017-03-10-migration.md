@@ -29,7 +29,24 @@ Lyman does a decent write up of [this paper](http://onlinelibrary.wiley.com/stor
 
 I've heard of papers here. Let's find them.
 
+## Greg Kaplan
 
+[Local labor market specificity paper](https://gregkaplan.uchicago.edu/sites/gregkaplan.uchicago.edu/files/uploads/kaplan_schulhoferwohl_final_oct2015.pdf)
+
+
+## Why All The Moving Statistics Might Be All Wrong
+[Greg Kaplan](https://gregkaplan.uchicago.edu/sites/gregkaplan.uchicago.edu/files/uploads/minneapolis_fed_policy_papers.pdf) et make a point that the interstate migration data might be all due to the way the census imputes census figures. 
+
+>In 2010, of every 100 people surveyed for the CPS, 87 said they hadn’t moved between states, 1 said they had moved between states, and 12 didn’t answer questions about migration. What we assume about those 12 people out of every hundred matters a lot: If they all migrated, the migration rate would be much higher than if none of them migrated. We could ignore the 12 entirely—and, in fact, we suggest later in this paper that ignoring the nonrespondents turns out to be a good solution in this case.
+
+Census uses "hot deck" allocation to fill in the blanks. 
+ > The Census Bureau uses a method called “hot deck allocation.” Participants’ survey forms are fed through a computer one at a time. If someone didn’t answer a particular question, the computer looks back through the forms it processed previously until it finds the most recently processed survey participant who’s similar to the nonrespondent but who did answer the question. The previously processed forms are called the hot deck. 
+
+ >Let’s say Mr. Smith, a 33-year-old black homeowner living in the Midwest, didn’t answer a particular question. The computer might look through the hot deck for the most recently processed 33-year-old black homeowner in the Midwest who did answer—Mr. Jones, say—and then copy Mr. Jones’ answer onto Mr. Smith’s form. The person whose missing answer is filled in is known as a recipient; the person whose answer is used is known as a donor. The process is called imputation through hot deck allocation.
+
+Before 2006, the order that the data were fed into the machine did not matter, so records could be from all over the place. The problem is that if you left the question, "did you move" blank, and the machine finds another person in the deck who said they moved, that person will more likely be from a different state and therefore be artifically classified as a interstate move. 
+
+The upside. It doesn't change any large scale conclusions about migrations It's still declining. It's only a small data effect that last between 1999 and 2006 at the worst. Even if you don't impute those records, the trend is still down.
 
 
 

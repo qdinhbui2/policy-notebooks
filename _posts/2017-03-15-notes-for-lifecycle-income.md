@@ -129,3 +129,144 @@ percent.
 
 
 
+
+
+
+- Most people don't make that much money. Throughout their entire lives. 
+
+
+## Lifecycle Facts
+
+- The typical person man or women born between 1932 and 1958 will a total of $1.2 million between age 25 and 55.
+
+- For three quarters of Americans, this number has not changed over time. But they have changed a lot of the top quarter. 
+
+- Averaged across a life, the typical man will make 40ish thousand a year; a typical woman will make between 20 and 25k. (If you averaged out the low wages you earn in your twenties with the high wages you earn in your late 50s) 
+
+- Your biggest wage gains will happen before 35. 
+
+- Your salary will stagnate after 45. 
+
+- Your starting salary tends to stick with you until your mid 40s. 
+
+- But for the very rich, raises will continue well past middle age. 
+
+- Most people will make half of their "lifetime" income by age 42. Except for the rich, they will make only 50% of all the money they will ever make at 45. 
+
+
+# cross section by age. 
+
+- Incomes 25 yr old men have steadily declines over the last 40 years. Millennial young men make less than their father and probably less than their grandfathers.
+
+- Incomes 25 yr old women have steadily increase over the last 40 years. Millennial women make as much as their mothers, but definitely more than their grandmothers. 
+
+- Young men and women in the silent generation make the least among the generations
+- Men in the baby boom had the best starting salaries. Younger gen-Xers had the  second-best starting salaries. 
+
+- Gen-X women had the best starting salaries
+
+
+
+
+# men and women
+
+- In the 1960, women wages were largely a function of when they enter the work force. 
+
+- This started to change for women entering the workforce in the mid 80s. They started getting substantial raises in their 20s and 30s. Their income curves started looking like mens. They were developing a careers. (mention goldin's and blaus work on women and careers.)
+
+- The rising incomes can be attributed to two things: higher wages and more hours. All of the people included in the data make more than $1650 annually for 15 of 31 years, so they're at least mildly attached to the labor force. 
+
+
+#inequality 
+- Lifetime inequality is somewhat smaller that of conventiaonl measures of inequality (if you use that baseline filter of nontrivial income)
+
+- For men, the main driver of inequality is initial income. 
+- For women, the main driver, it's the path of income.
+
+- In other words, newer cohorts enter with much higher inequality than older cohorts, which is the main force behind rising income inequality. In 1968, a 25 year old man in the top 2 percent of income made 3.3 times as much as a 25 year old man in bottom 10 percent. By 2012 that ratio has grown to 9. 
+
+
+- Can play some games like this: a 25 year old making 100k is earning more than 75% of workers at the end of their careers. (maybe too hard)
+
+- Lifetime inequality is more extreme than conventional measures of inequality at the high end. 
+
+
+
+
+
+
+
+
+/// ignore 
+
+
+
+- For most people your die is cast by age 25 (may not be true for newer cohorts). Guvenan says many income dynamics are rooted in whatever happens before age 25. (I can't quite see it in the charts. Does he mean?) Maybe he means that people end up being in the top 2% of income don't start at the same place as people who end up being in the median.
+
+- There used to be more overlap in lifecycle salaries. But starting in the 80's the late career earnings of p75 and up have detached from everyone else. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Using the last 50-ish years of data, Guvenen found That the typical person man or women born between 1932 and 1958 made a total of $1.2 million through the course of their prime working years.
+
+p10  371365.5
+p25  708997.8
+p50 1204135.8
+p75 1836930.0
+p90 2604229.7
+p98 5182793.0
+
+Of course, the path to those earnings is not straight. They bounce and wiggle -- sometimes in lockstep, sometimes all on their own. Collectively these lines reveal the complexities of life that you rarely see in government statistics. 
+
+
+### The shape of lifetime income for men:
+The general pattern of lifetime income goes like this: your earnings tend to accelerate all the way up to age 45, then it tapers off. 
+
+The biggest growth in income occurs in the first 10 years of your career. 
+
+But the amount growth that people experience in that period has diminished over the years. 
+
+And even worse, the wage that the typical male makes when he enters the labor force has declined. So you get this one-two punch of declining starting wage and slower wage growth than in generations past. 
+
+As Guvenan notes:
+> However, between the 1967 and 1983 cohorts, when median income age 25 was sharply declining, income growth in the first years in the labor market continued to fall (from 52% to 46%). It is the combination of declining income at entry, and weak income growth during the first decade that account for the overall stagnation of median male lifetime income since the 1967 cohort.
+
+To reiterate once more, these are men WITH JOBS. 
+
+### The shape of lifetime income for women:
+
+### Recent cohorts
+In recent cohorts, we see two completely different stories. Starting wages for men have declined, while 
+
+
+
+
+### Recessions
+
+In between you can also see the properous periods for workers of all generations. Some good periods for people were the 80s and 90s and up to the early 90s. Why did some generation see sharper wage growth during some recessions?
+
+Recessions seem hurt older worker wages mores. 
+
+
+
+### Has life gotten better?
+
+
+
+## Who should I talk to?
+James Poterba
+Melissa Kearney
+[who did this](http://www.hamiltonproject.org/papers/major_decisions_what_graduates_earn_over_their_lifetimes/)
+[Pew](https://www.census.gov/prod/2002pubs/p23-210.pdf)

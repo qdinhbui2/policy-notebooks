@@ -34,7 +34,9 @@ This system helps balance out the moral hazard in insurance markets. Eg young pe
 
 But these strict regulations basically make an all-payer system feels very foreign to the American way of doing business. It seems like insurance companies and customers don’t really have much freedom to buy and sell their product. A market in name only.
 
-[Maryland also did it in the 70s](http://www.vox.com/2015/2/9/8001173/all-payer-rate-setting), it seemed to work.
+[vox wrote all payer as a back door to single payer](http://www.vox.com/2015/2/9/8001173/all-payer-rate-setting)
+
+[best history of all payer](http://content.healthaffairs.org/content/16/1/142.full.pdf)
 
 #### Single Payer System
 The government pays. 

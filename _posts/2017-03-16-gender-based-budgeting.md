@@ -63,3 +63,74 @@ In some developing countries these budgets can be explicit.
 
 
 
+## For the United States
+
+
+The federal government spends 3.7 trillion dollars.
+
+3.2 is raised by federal revenues (taxes mostly)
+
+.4 is raised by borrowing.
+
+Largest topline expenditures
+
+
+These are mandatory
+	- Social Security
+		- $888 billion dollars
+		- [data](https://www.ssa.gov/oact/progdata/benefits.html)
+	- Medicare, Medicaid, CHIP, and marketplace subdidies?
+		- $938 billion dollars
+		- [Medicare Data](http://kff.org/report-section/profile-of-medicare-beneficiaries-by-race-and-ethnicity-chartpack/)
+
+	- [maybe all of it here?](https://www.cms.gov/Research-Statistics-Data-and-Systems/Statistics-Trends-and-Reports/CMS-Statistics-Reference-Booklet/Downloads/CMS_Stats_2014_final.pdf)
+	
+	- Defense and international security assistance
+		- $602 billion dollars
+			- We don't know exactly what the gender incidence for contractors for capital. 
+			- But we (probably?) know the gender for labor
+			- A conservative estimate would be to split proportionally
+			- But clearly the military is probably top-heavy gender-wise
+			- [budget](https://www.defense.gov/News/Special-Reports/FY16-Budget)
+
+	- Non-defense discretionary
+		- Health Care and Health Research
+			- 50% hospital and medicare care for veterans
+			- 25% cancer research
+
+		- Transportation and economic development
+			- National highway system
+			- Air traffic control
+
+		- Education and Training
+			- 44% goes to k-12
+			- 29% Pell grantees
+		
+		- Economic Security
+		
+		- Science, Environment, and Energy
+		
+		- Law Enforcement and Governance
+		
+		- Diplomacy and International Affairs
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
